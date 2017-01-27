@@ -1,6 +1,6 @@
 ### CUNY MSDA Summer 2015 Bridge Workshop SQL Final Project
 
-**Overview **
+**Overview**
 
 1. I designed a database for people who are self_managing their own investment accounts, which could be at different brokers;
 
